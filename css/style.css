@@ -501,7 +501,7 @@ height: 540px;
   width: 330px;
 }
 
-.cta-back-white {
+.cta-back {
   background-color: var(--white);
   width: 100%;
   text-align: center;
@@ -1091,7 +1091,7 @@ TB
     width: 840px;
   }
 
-  .cta-back-white {
+  .cta-back {
     padding: 20px;
   }
 
@@ -1412,7 +1412,7 @@ SP
     margin: 0 auto;
   }
 
-  .cta-back-white {
+  .cta-back {
     width: 90%;
     margin: 0 auto;
   }
@@ -1481,6 +1481,10 @@ SP
 
   .bubble-white-right {
     font-size: 16px;
+  }
+
+  .bubble-pink-right {
+        margin-left: 42%;
   }
 
 
